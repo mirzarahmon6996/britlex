@@ -1246,6 +1246,24 @@ input {
         right: 280px;
     }
 
+    .pricing__wrapper {
+        display: none;
+    }
 
+    .pricing__title {
+        display: none;
+    }
+
+    .contact {
+        display: none;
+    }
+
+    .footer-hr {
+        display: none;
+    }
+
+    .footer__content {
+        display: none;
+    }
 
 }
